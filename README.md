@@ -4,6 +4,7 @@ This project was finished as a requirement for Queensborough Community College's
 ## Summary
 The lab's main objectives were to configure network switches using the Cisco IOS CLI, create VLANs, secure ports, and confirm Layer 2 and Layer 3 communication between linked devices.
 
+![](pictures/Lab12_Report.pdf)
 
 ## Important Tasks
 - Created, named, assigned ports to, and deleted VLANs on a Cisco 3550 switch.
